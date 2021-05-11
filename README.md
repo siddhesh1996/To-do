@@ -5,6 +5,7 @@ This application runs locally with no integration of backend
 1. Add task to the list
 2. Mark done once completed :)
 
+![alt text](https://github.com/siddhesh1996/To-do/blob/master/public/Screenshot%202021-05-11%20200302.png)
 
 # Getting Started with Create React App
 
