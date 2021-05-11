@@ -1,4 +1,4 @@
-## Simple To-Do application using React Hooks (useEffect) and Typescript
+## Simple To-Do application using React Hooks and Typescript
 
 This application runs locally with no integration of backend
 
