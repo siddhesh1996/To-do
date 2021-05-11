@@ -1,3 +1,11 @@
+## Simple To-Do application using React Hooks (useEffect) and Typescript
+
+This application runs locally with no integration of backend
+
+1. Add task to the list
+2. Mark done once completed :)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,11 +52,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-
-## Simple To-Do application using React Hooks (useEffect) and Typescript
-
-This application runs locally with no integration of backend
-
-1. Add task to the list
-2. Mark done once completed :)
